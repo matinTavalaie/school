@@ -1,8 +1,8 @@
 *{padding:0; margin:0;  }
-#wrapper{margin:0 auto; background-color:#d3d3d3;width:1200px; height:900px;   }
+#wrapper{margin:0 auto; background-color:#d3d3d3;width:1200px; height:450px;   }
 #row1_col1{background-color:#ccc; width:45%; float: left; border:1px solid gray;   }
 #row1_col2{background-color:#cDc; width:50%;float: right; border:1px solid gray;  }
-table{margin:40px auto;background-color:white; width:80%;   }
+table{width:100%;margin:40px auto;background-color: #787777; width:80%;   }
 table tr:first-child{background-color:lightgreen; }
 form{margin:20px 25%; }
 input[type="submit"]{background-color:lightblue;width:200px;height:40px;margin-top:20px;   }
